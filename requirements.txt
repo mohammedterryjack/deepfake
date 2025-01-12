@@ -1,0 +1,11 @@
+pandas
+transformers[torch]
+datasets
+evaluate
+diffusers
+torch 
+torchvision 
+torchaudio
+pillow
+matplotlib
+imagehash
